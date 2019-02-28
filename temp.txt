@@ -1,0 +1,2222 @@
+[
+  {
+    "fund": "jrec",
+    "branch": "a",
+    "total": 589.09,
+    "items": 26
+  },
+  {
+    "fund": "jrec",
+    "branch": "r",
+    "total": 1169.1933333333334,
+    "items": 52
+  },
+  {
+    "fund": "jrec",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jrec",
+    "branch": "m",
+    "total": 1067.315,
+    "items": 51
+  },
+  {
+    "fund": "jrec",
+    "branch": "l",
+    "total": 119.65499999999999,
+    "items": 5
+  },
+  {
+    "fund": "jrec",
+    "branch": "g",
+    "total": 185.57166666666666,
+    "items": 7
+  },
+  {
+    "fund": "jrec",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jrec",
+    "branch": "n",
+    "total": 100.45666666666666,
+    "items": 3
+  },
+  {
+    "fund": "jrec",
+    "branch": "s",
+    "total": 30,
+    "items": 1
+  },
+  {
+    "fund": "jrec",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "r",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "x",
+    "total": 4233.934999999998,
+    "items": 187
+  },
+  {
+    "fund": "bkm",
+    "branch": "m",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bkm",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "afict",
+    "branch": "a",
+    "total": 11674.89825,
+    "items": 840
+  },
+  {
+    "fund": "afict",
+    "branch": "r",
+    "total": 20743.46825000012,
+    "items": 1557
+  },
+  {
+    "fund": "afict",
+    "branch": "x",
+    "total": 325.58,
+    "items": 29
+  },
+  {
+    "fund": "afict",
+    "branch": "m",
+    "total": 21235.008250000134,
+    "items": 1574
+  },
+  {
+    "fund": "afict",
+    "branch": "l",
+    "total": 10722.318250000002,
+    "items": 791
+  },
+  {
+    "fund": "afict",
+    "branch": "g",
+    "total": 9407.348249999986,
+    "items": 675
+  },
+  {
+    "fund": "afict",
+    "branch": "c",
+    "total": 44.99,
+    "items": 3
+  },
+  {
+    "fund": "afict",
+    "branch": "n",
+    "total": 6979.466249999999,
+    "items": 495
+  },
+  {
+    "fund": "afict",
+    "branch": "s",
+    "total": 5660.236250000001,
+    "items": 393
+  },
+  {
+    "fund": "afict",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "r",
+    "total": 61.28000000000001,
+    "items": 4
+  },
+  {
+    "fund": "crozt",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "m",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "g",
+    "total": 48.379999999999995,
+    "items": 3
+  },
+  {
+    "fund": "crozt",
+    "branch": "c",
+    "total": 85885.92608333335,
+    "items": 5912
+  },
+  {
+    "fund": "crozt",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "crozt",
+    "branch": "s",
+    "total": 20.14,
+    "items": 1
+  },
+  {
+    "fund": "crozt",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jrep",
+    "branch": "a",
+    "total": 2328.32,
+    "items": 209
+  },
+  {
+    "fund": "jrep",
+    "branch": "r",
+    "total": 3059.2399999999957,
+    "items": 278
+  },
+  {
+    "fund": "jrep",
+    "branch": "x",
+    "total": 121.44999999999999,
+    "items": 14
+  },
+  {
+    "fund": "jrep",
+    "branch": "m",
+    "total": 3382.2899999999972,
+    "items": 308
+  },
+  {
+    "fund": "jrep",
+    "branch": "l",
+    "total": 827.9499999999998,
+    "items": 69
+  },
+  {
+    "fund": "jrep",
+    "branch": "g",
+    "total": 566.8599999999998,
+    "items": 52
+  },
+  {
+    "fund": "jrep",
+    "branch": "c",
+    "total": 184.48000000000005,
+    "items": 15
+  },
+  {
+    "fund": "jrep",
+    "branch": "n",
+    "total": 55.620000000000005,
+    "items": 4
+  },
+  {
+    "fund": "jrep",
+    "branch": "s",
+    "total": 310.28000000000014,
+    "items": 27
+  },
+  {
+    "fund": "jrep",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jnfic",
+    "branch": "a",
+    "total": 8822.579999999989,
+    "items": 602
+  },
+  {
+    "fund": "jnfic",
+    "branch": "r",
+    "total": 10821.239999999967,
+    "items": 731
+  },
+  {
+    "fund": "jnfic",
+    "branch": "x",
+    "total": 924.22,
+    "items": 79
+  },
+  {
+    "fund": "jnfic",
+    "branch": "m",
+    "total": 10703.199999999972,
+    "items": 719
+  },
+  {
+    "fund": "jnfic",
+    "branch": "l",
+    "total": 4636.030000000001,
+    "items": 324
+  },
+  {
+    "fund": "jnfic",
+    "branch": "g",
+    "total": 5967.619999999996,
+    "items": 409
+  },
+  {
+    "fund": "jnfic",
+    "branch": "c",
+    "total": 536.56,
+    "items": 41
+  },
+  {
+    "fund": "jnfic",
+    "branch": "n",
+    "total": 2444.0700000000015,
+    "items": 179
+  },
+  {
+    "fund": "jnfic",
+    "branch": "s",
+    "total": 2648.01,
+    "items": 189
+  },
+  {
+    "fund": "jnfic",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jfict",
+    "branch": "a",
+    "total": 9420.259999999987,
+    "items": 928
+  },
+  {
+    "fund": "jfict",
+    "branch": "r",
+    "total": 12317.186666666605,
+    "items": 1247
+  },
+  {
+    "fund": "jfict",
+    "branch": "x",
+    "total": 1472.3099999999997,
+    "items": 152
+  },
+  {
+    "fund": "jfict",
+    "branch": "m",
+    "total": 12134.816666666598,
+    "items": 1208
+  },
+  {
+    "fund": "jfict",
+    "branch": "l",
+    "total": 4357.7599999999975,
+    "items": 423
+  },
+  {
+    "fund": "jfict",
+    "branch": "g",
+    "total": 5915.28,
+    "items": 592
+  },
+  {
+    "fund": "jfict",
+    "branch": "c",
+    "total": 764.0599999999997,
+    "items": 78
+  },
+  {
+    "fund": "jfict",
+    "branch": "n",
+    "total": 1979.9299999999982,
+    "items": 202
+  },
+  {
+    "fund": "jfict",
+    "branch": "s",
+    "total": 2230.369999999999,
+    "items": 226
+  },
+  {
+    "fund": "jfict",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "botso",
+    "branch": "a",
+    "total": 643.33,
+    "items": 12
+  },
+  {
+    "fund": "botso",
+    "branch": "r",
+    "total": 1504.36,
+    "items": 24
+  },
+  {
+    "fund": "botso",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "botso",
+    "branch": "m",
+    "total": 2172.459999999999,
+    "items": 38
+  },
+  {
+    "fund": "botso",
+    "branch": "l",
+    "total": 489.9800000000001,
+    "items": 9
+  },
+  {
+    "fund": "botso",
+    "branch": "g",
+    "total": 713.3400000000001,
+    "items": 13
+  },
+  {
+    "fund": "botso",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "botso",
+    "branch": "n",
+    "total": 422.45,
+    "items": 7
+  },
+  {
+    "fund": "botso",
+    "branch": "s",
+    "total": 451.4,
+    "items": 8
+  },
+  {
+    "fund": "botso",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "lpbks",
+    "branch": "a",
+    "total": 1536.7631666666668,
+    "items": 70
+  },
+  {
+    "fund": "lpbks",
+    "branch": "r",
+    "total": 6691.972333333321,
+    "items": 293
+  },
+  {
+    "fund": "lpbks",
+    "branch": "x",
+    "total": 195.34500000000003,
+    "items": 9
+  },
+  {
+    "fund": "lpbks",
+    "branch": "m",
+    "total": 3989.3039999999924,
+    "items": 168
+  },
+  {
+    "fund": "lpbks",
+    "branch": "l",
+    "total": 1642.7766666666664,
+    "items": 74
+  },
+  {
+    "fund": "lpbks",
+    "branch": "g",
+    "total": 1254.5441666666666,
+    "items": 55
+  },
+  {
+    "fund": "lpbks",
+    "branch": "c",
+    "total": 18.85,
+    "items": 1
+  },
+  {
+    "fund": "lpbks",
+    "branch": "n",
+    "total": 1203.7615,
+    "items": 52
+  },
+  {
+    "fund": "lpbks",
+    "branch": "s",
+    "total": 662.1183333333335,
+    "items": 31
+  },
+  {
+    "fund": "lpbks",
+    "branch": "none",
+    "total": 14.99,
+    "items": 1
+  },
+  {
+    "fund": "bsell",
+    "branch": "a",
+    "total": 1433.3900000000008,
+    "items": 92
+  },
+  {
+    "fund": "bsell",
+    "branch": "r",
+    "total": 1665.1300000000008,
+    "items": 107
+  },
+  {
+    "fund": "bsell",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bsell",
+    "branch": "m",
+    "total": 1642.9600000000007,
+    "items": 106
+  },
+  {
+    "fund": "bsell",
+    "branch": "l",
+    "total": 751.4300000000003,
+    "items": 48
+  },
+  {
+    "fund": "bsell",
+    "branch": "g",
+    "total": 1124.6900000000003,
+    "items": 72
+  },
+  {
+    "fund": "bsell",
+    "branch": "c",
+    "total": 16.26,
+    "items": 1
+  },
+  {
+    "fund": "bsell",
+    "branch": "n",
+    "total": 1025.1000000000001,
+    "items": 65
+  },
+  {
+    "fund": "bsell",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "bsell",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "advd",
+    "branch": "a",
+    "total": 15.99,
+    "items": 1
+  },
+  {
+    "fund": "advd",
+    "branch": "r",
+    "total": 1386.4333333333334,
+    "items": 56
+  },
+  {
+    "fund": "advd",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "advd",
+    "branch": "m",
+    "total": 1310.0533333333335,
+    "items": 61
+  },
+  {
+    "fund": "advd",
+    "branch": "l",
+    "total": 38.480000000000004,
+    "items": 2
+  },
+  {
+    "fund": "advd",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "advd",
+    "branch": "c",
+    "total": 21.99,
+    "items": 1
+  },
+  {
+    "fund": "advd",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "advd",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "advd",
+    "branch": "none",
+    "total": 11819.106666666603,
+    "items": 511
+  },
+  {
+    "fund": "psaf",
+    "branch": "a",
+    "total": 1299.8900000000006,
+    "items": 95
+  },
+  {
+    "fund": "psaf",
+    "branch": "r",
+    "total": 3940.685,
+    "items": 310
+  },
+  {
+    "fund": "psaf",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "psaf",
+    "branch": "m",
+    "total": 2846.615000000001,
+    "items": 214
+  },
+  {
+    "fund": "psaf",
+    "branch": "l",
+    "total": 1008.6500000000001,
+    "items": 87
+  },
+  {
+    "fund": "psaf",
+    "branch": "g",
+    "total": 646.0200000000001,
+    "items": 54
+  },
+  {
+    "fund": "psaf",
+    "branch": "c",
+    "total": 29.839999999999996,
+    "items": 2
+  },
+  {
+    "fund": "psaf",
+    "branch": "n",
+    "total": 266.1000000000001,
+    "items": 22
+  },
+  {
+    "fund": "psaf",
+    "branch": "s",
+    "total": 103.09,
+    "items": 7
+  },
+  {
+    "fund": "psaf",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "arep",
+    "branch": "a",
+    "total": 672.0600000000001,
+    "items": 43
+  },
+  {
+    "fund": "arep",
+    "branch": "r",
+    "total": 7256.701666666665,
+    "items": 485
+  },
+  {
+    "fund": "arep",
+    "branch": "x",
+    "total": 94.65,
+    "items": 4
+  },
+  {
+    "fund": "arep",
+    "branch": "m",
+    "total": 13214.470000000001,
+    "items": 878
+  },
+  {
+    "fund": "arep",
+    "branch": "l",
+    "total": 1251.1850000000002,
+    "items": 79
+  },
+  {
+    "fund": "arep",
+    "branch": "g",
+    "total": 1128.323333333333,
+    "items": 64
+  },
+  {
+    "fund": "arep",
+    "branch": "c",
+    "total": 244.05,
+    "items": 14
+  },
+  {
+    "fund": "arep",
+    "branch": "n",
+    "total": 829.1849999999998,
+    "items": 49
+  },
+  {
+    "fund": "arep",
+    "branch": "s",
+    "total": 464.1400000000001,
+    "items": 26
+  },
+  {
+    "fund": "arep",
+    "branch": "none",
+    "total": 238.88000000000005,
+    "items": 11
+  },
+  {
+    "fund": "botcd",
+    "branch": "a",
+    "total": 1435.66,
+    "items": 35
+  },
+  {
+    "fund": "botcd",
+    "branch": "r",
+    "total": 3341.7399999999975,
+    "items": 90
+  },
+  {
+    "fund": "botcd",
+    "branch": "x",
+    "total": 35,
+    "items": 1
+  },
+  {
+    "fund": "botcd",
+    "branch": "m",
+    "total": 4181.359999999995,
+    "items": 105
+  },
+  {
+    "fund": "botcd",
+    "branch": "l",
+    "total": 1379.32,
+    "items": 31
+  },
+  {
+    "fund": "botcd",
+    "branch": "g",
+    "total": 1196.8600000000001,
+    "items": 33
+  },
+  {
+    "fund": "botcd",
+    "branch": "c",
+    "total": 173.01,
+    "items": 4
+  },
+  {
+    "fund": "botcd",
+    "branch": "n",
+    "total": 739.96,
+    "items": 20
+  },
+  {
+    "fund": "botcd",
+    "branch": "s",
+    "total": 642.19,
+    "items": 16
+  },
+  {
+    "fund": "botcd",
+    "branch": "none",
+    "total": 153.89,
+    "items": 5
+  },
+  {
+    "fund": "anfic",
+    "branch": "a",
+    "total": 10837.389999999976,
+    "items": 689
+  },
+  {
+    "fund": "anfic",
+    "branch": "r",
+    "total": 24415.93999999999,
+    "items": 1527
+  },
+  {
+    "fund": "anfic",
+    "branch": "x",
+    "total": 297.12000000000006,
+    "items": 18
+  },
+  {
+    "fund": "anfic",
+    "branch": "m",
+    "total": 26156.874999999993,
+    "items": 1615
+  },
+  {
+    "fund": "anfic",
+    "branch": "l",
+    "total": 10147.504999999977,
+    "items": 652
+  },
+  {
+    "fund": "anfic",
+    "branch": "g",
+    "total": 9495.524999999972,
+    "items": 613
+  },
+  {
+    "fund": "anfic",
+    "branch": "c",
+    "total": 61.28999999999999,
+    "items": 4
+  },
+  {
+    "fund": "anfic",
+    "branch": "n",
+    "total": 5967.20499999999,
+    "items": 380
+  },
+  {
+    "fund": "anfic",
+    "branch": "s",
+    "total": 5039.664999999999,
+    "items": 325
+  },
+  {
+    "fund": "anfic",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "r",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "m",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "g",
+    "total": 105.43999999999998,
+    "items": 6
+  },
+  {
+    "fund": "taylr",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "taylr",
+    "branch": "none",
+    "total": 16.09,
+    "items": 1
+  },
+  {
+    "fund": "swyg",
+    "branch": "a",
+    "total": 1649.63,
+    "items": 99
+  },
+  {
+    "fund": "swyg",
+    "branch": "r",
+    "total": 1182.65,
+    "items": 68
+  },
+  {
+    "fund": "swyg",
+    "branch": "x",
+    "total": 119.13,
+    "items": 9
+  },
+  {
+    "fund": "swyg",
+    "branch": "m",
+    "total": 1258.1599999999996,
+    "items": 72
+  },
+  {
+    "fund": "swyg",
+    "branch": "l",
+    "total": 335.62,
+    "items": 24
+  },
+  {
+    "fund": "swyg",
+    "branch": "g",
+    "total": 602.5200000000003,
+    "items": 40
+  },
+  {
+    "fund": "swyg",
+    "branch": "c",
+    "total": 987.53,
+    "items": 58
+  },
+  {
+    "fund": "swyg",
+    "branch": "n",
+    "total": 216.34000000000003,
+    "items": 16
+  },
+  {
+    "fund": "swyg",
+    "branch": "s",
+    "total": 216.33999999999997,
+    "items": 16
+  },
+  {
+    "fund": "swyg",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yapb",
+    "branch": "a",
+    "total": 565.8399999999999,
+    "items": 61
+  },
+  {
+    "fund": "yapb",
+    "branch": "r",
+    "total": 1235.780000000001,
+    "items": 132
+  },
+  {
+    "fund": "yapb",
+    "branch": "x",
+    "total": 183.83999999999997,
+    "items": 20
+  },
+  {
+    "fund": "yapb",
+    "branch": "m",
+    "total": 1227.6200000000013,
+    "items": 129
+  },
+  {
+    "fund": "yapb",
+    "branch": "l",
+    "total": 601.8,
+    "items": 65
+  },
+  {
+    "fund": "yapb",
+    "branch": "g",
+    "total": 530.68,
+    "items": 60
+  },
+  {
+    "fund": "yapb",
+    "branch": "c",
+    "total": 119.73000000000005,
+    "items": 13
+  },
+  {
+    "fund": "yapb",
+    "branch": "n",
+    "total": 433.89000000000004,
+    "items": 45
+  },
+  {
+    "fund": "yapb",
+    "branch": "s",
+    "total": 346.7900000000001,
+    "items": 31
+  },
+  {
+    "fund": "yapb",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yarep",
+    "branch": "a",
+    "total": 24.53,
+    "items": 2
+  },
+  {
+    "fund": "yarep",
+    "branch": "r",
+    "total": 639.3500000000001,
+    "items": 66
+  },
+  {
+    "fund": "yarep",
+    "branch": "x",
+    "total": 69.64,
+    "items": 7
+  },
+  {
+    "fund": "yarep",
+    "branch": "m",
+    "total": 936.3600000000001,
+    "items": 102
+  },
+  {
+    "fund": "yarep",
+    "branch": "l",
+    "total": 123.16,
+    "items": 13
+  },
+  {
+    "fund": "yarep",
+    "branch": "g",
+    "total": 150.60000000000005,
+    "items": 15
+  },
+  {
+    "fund": "yarep",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yarep",
+    "branch": "n",
+    "total": 149.64999999999998,
+    "items": 15
+  },
+  {
+    "fund": "yarep",
+    "branch": "s",
+    "total": 24.58,
+    "items": 2
+  },
+  {
+    "fund": "yarep",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yactb",
+    "branch": "a",
+    "total": 176.25,
+    "items": 4
+  },
+  {
+    "fund": "yactb",
+    "branch": "r",
+    "total": 255,
+    "items": 6
+  },
+  {
+    "fund": "yactb",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yactb",
+    "branch": "m",
+    "total": 242.25,
+    "items": 6
+  },
+  {
+    "fund": "yactb",
+    "branch": "l",
+    "total": 176.25,
+    "items": 4
+  },
+  {
+    "fund": "yactb",
+    "branch": "g",
+    "total": 187.5,
+    "items": 4
+  },
+  {
+    "fund": "yactb",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yactb",
+    "branch": "n",
+    "total": 153.75,
+    "items": 3
+  },
+  {
+    "fund": "yactb",
+    "branch": "s",
+    "total": 157.5,
+    "items": 4
+  },
+  {
+    "fund": "yactb",
+    "branch": "none",
+    "total": 45,
+    "items": 1
+  },
+  {
+    "fund": "psanf",
+    "branch": "a",
+    "total": 1582.76,
+    "items": 98
+  },
+  {
+    "fund": "psanf",
+    "branch": "r",
+    "total": 5933.979999999986,
+    "items": 364
+  },
+  {
+    "fund": "psanf",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "psanf",
+    "branch": "m",
+    "total": 5299.789999999991,
+    "items": 311
+  },
+  {
+    "fund": "psanf",
+    "branch": "l",
+    "total": 923.6300000000001,
+    "items": 58
+  },
+  {
+    "fund": "psanf",
+    "branch": "g",
+    "total": 470.14,
+    "items": 31
+  },
+  {
+    "fund": "psanf",
+    "branch": "c",
+    "total": 104.34,
+    "items": 7
+  },
+  {
+    "fund": "psanf",
+    "branch": "n",
+    "total": 423.07,
+    "items": 25
+  },
+  {
+    "fund": "psanf",
+    "branch": "s",
+    "total": 162.85999999999999,
+    "items": 11
+  },
+  {
+    "fund": "psanf",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yanf",
+    "branch": "a",
+    "total": 1320.4200000000005,
+    "items": 67
+  },
+  {
+    "fund": "yanf",
+    "branch": "r",
+    "total": 3012.8499999999985,
+    "items": 147
+  },
+  {
+    "fund": "yanf",
+    "branch": "x",
+    "total": 144.17000000000002,
+    "items": 8
+  },
+  {
+    "fund": "yanf",
+    "branch": "m",
+    "total": 3005.8099999999986,
+    "items": 146
+  },
+  {
+    "fund": "yanf",
+    "branch": "l",
+    "total": 1094.8100000000002,
+    "items": 53
+  },
+  {
+    "fund": "yanf",
+    "branch": "g",
+    "total": 944.0800000000003,
+    "items": 46
+  },
+  {
+    "fund": "yanf",
+    "branch": "c",
+    "total": 15.51,
+    "items": 1
+  },
+  {
+    "fund": "yanf",
+    "branch": "n",
+    "total": 653.1099999999999,
+    "items": 33
+  },
+  {
+    "fund": "yanf",
+    "branch": "s",
+    "total": 546.1000000000001,
+    "items": 30
+  },
+  {
+    "fund": "yanf",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yafic",
+    "branch": "a",
+    "total": 1949.1599999999992,
+    "items": 178
+  },
+  {
+    "fund": "yafic",
+    "branch": "r",
+    "total": 4941.310000000002,
+    "items": 460
+  },
+  {
+    "fund": "yafic",
+    "branch": "x",
+    "total": 348.36000000000007,
+    "items": 30
+  },
+  {
+    "fund": "yafic",
+    "branch": "m",
+    "total": 5005.170000000004,
+    "items": 464
+  },
+  {
+    "fund": "yafic",
+    "branch": "l",
+    "total": 1127.5800000000002,
+    "items": 99
+  },
+  {
+    "fund": "yafic",
+    "branch": "g",
+    "total": 1575.85,
+    "items": 142
+  },
+  {
+    "fund": "yafic",
+    "branch": "c",
+    "total": 22.49,
+    "items": 1
+  },
+  {
+    "fund": "yafic",
+    "branch": "n",
+    "total": 1063.3100000000002,
+    "items": 94
+  },
+  {
+    "fund": "yafic",
+    "branch": "s",
+    "total": 790.76,
+    "items": 67
+  },
+  {
+    "fund": "yafic",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jdvd",
+    "branch": "a",
+    "total": 2037.7812500000011,
+    "items": 82
+  },
+  {
+    "fund": "jdvd",
+    "branch": "r",
+    "total": 2466.0862499999967,
+    "items": 109
+  },
+  {
+    "fund": "jdvd",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "jdvd",
+    "branch": "m",
+    "total": 2553.0362499999956,
+    "items": 114
+  },
+  {
+    "fund": "jdvd",
+    "branch": "l",
+    "total": 1766.9012500000008,
+    "items": 66
+  },
+  {
+    "fund": "jdvd",
+    "branch": "g",
+    "total": 1742.9112500000008,
+    "items": 65
+  },
+  {
+    "fund": "jdvd",
+    "branch": "c",
+    "total": 56.881249999999994,
+    "items": 3
+  },
+  {
+    "fund": "jdvd",
+    "branch": "n",
+    "total": 1508.7112500000005,
+    "items": 50
+  },
+  {
+    "fund": "jdvd",
+    "branch": "s",
+    "total": 1513.7112500000007,
+    "items": 50
+  },
+  {
+    "fund": "jdvd",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "cds",
+    "branch": "a",
+    "total": 682.4300000000003,
+    "items": 41
+  },
+  {
+    "fund": "cds",
+    "branch": "r",
+    "total": 1129.9500000000005,
+    "items": 75
+  },
+  {
+    "fund": "cds",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "cds",
+    "branch": "m",
+    "total": 1370.0650000000003,
+    "items": 89
+  },
+  {
+    "fund": "cds",
+    "branch": "l",
+    "total": 323.56,
+    "items": 22
+  },
+  {
+    "fund": "cds",
+    "branch": "g",
+    "total": 402.165,
+    "items": 26
+  },
+  {
+    "fund": "cds",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "cds",
+    "branch": "n",
+    "total": 161.495,
+    "items": 11
+  },
+  {
+    "fund": "cds",
+    "branch": "s",
+    "total": 46.31999999999999,
+    "items": 3
+  },
+  {
+    "fund": "cds",
+    "branch": "none",
+    "total": 16.24,
+    "items": 1
+  },
+  {
+    "fund": "forla",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "forla",
+    "branch": "r",
+    "total": 923.015,
+    "items": 76
+  },
+  {
+    "fund": "forla",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "forla",
+    "branch": "m",
+    "total": 1001.77,
+    "items": 82
+  },
+  {
+    "fund": "forla",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "forla",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "forla",
+    "branch": "c",
+    "total": 55.38999999999999,
+    "items": 5
+  },
+  {
+    "fund": "forla",
+    "branch": "n",
+    "total": 157.11,
+    "items": 13
+  },
+  {
+    "fund": "forla",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "forla",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "contc",
+    "branch": "a",
+    "total": 250.37175,
+    "items": 13
+  },
+  {
+    "fund": "contc",
+    "branch": "r",
+    "total": 379.55841666666663,
+    "items": 18
+  },
+  {
+    "fund": "contc",
+    "branch": "x",
+    "total": 20.580000000000002,
+    "items": 1
+  },
+  {
+    "fund": "contc",
+    "branch": "m",
+    "total": 394.7384166666667,
+    "items": 19
+  },
+  {
+    "fund": "contc",
+    "branch": "l",
+    "total": 55.97458333333334,
+    "items": 3
+  },
+  {
+    "fund": "contc",
+    "branch": "g",
+    "total": 67.40258333333333,
+    "items": 4
+  },
+  {
+    "fund": "contc",
+    "branch": "c",
+    "total": 53.83591666666667,
+    "items": 3
+  },
+  {
+    "fund": "contc",
+    "branch": "n",
+    "total": 38.46125,
+    "items": 2
+  },
+  {
+    "fund": "contc",
+    "branch": "s",
+    "total": 52.65708333333333,
+    "items": 3
+  },
+  {
+    "fund": "contc",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "contr",
+    "branch": "a",
+    "total": 126.99285714285713,
+    "items": 3
+  },
+  {
+    "fund": "contr",
+    "branch": "r",
+    "total": 388.3220238095238,
+    "items": 5
+  },
+  {
+    "fund": "contr",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "contr",
+    "branch": "m",
+    "total": 544.6920238095238,
+    "items": 7
+  },
+  {
+    "fund": "contr",
+    "branch": "l",
+    "total": 126.99285714285713,
+    "items": 3
+  },
+  {
+    "fund": "contr",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "contr",
+    "branch": "c",
+    "total": 353.85202380952376,
+    "items": 3
+  },
+  {
+    "fund": "contr",
+    "branch": "n",
+    "total": 271.26535714285717,
+    "items": 4
+  },
+  {
+    "fund": "contr",
+    "branch": "s",
+    "total": 92.52285714285713,
+    "items": 1
+  },
+  {
+    "fund": "contr",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacpb",
+    "branch": "a",
+    "total": 41.88333333333333,
+    "items": 4
+  },
+  {
+    "fund": "yacpb",
+    "branch": "r",
+    "total": 134.10166666666666,
+    "items": 13
+  },
+  {
+    "fund": "yacpb",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacpb",
+    "branch": "m",
+    "total": 142.74166666666667,
+    "items": 14
+  },
+  {
+    "fund": "yacpb",
+    "branch": "l",
+    "total": 26.485000000000003,
+    "items": 3
+  },
+  {
+    "fund": "yacpb",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacpb",
+    "branch": "c",
+    "total": 64.61166666666666,
+    "items": 6
+  },
+  {
+    "fund": "yacpb",
+    "branch": "n",
+    "total": 27.60666666666667,
+    "items": 3
+  },
+  {
+    "fund": "yacpb",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacpb",
+    "branch": "none",
+    "total": 482.82,
+    "items": 44
+  },
+  {
+    "fund": "yabot",
+    "branch": "a",
+    "total": 135.12,
+    "items": 4
+  },
+  {
+    "fund": "yabot",
+    "branch": "r",
+    "total": 237.07999999999998,
+    "items": 7
+  },
+  {
+    "fund": "yabot",
+    "branch": "x",
+    "total": 63.75,
+    "items": 2
+  },
+  {
+    "fund": "yabot",
+    "branch": "m",
+    "total": 143.82999999999998,
+    "items": 5
+  },
+  {
+    "fund": "yabot",
+    "branch": "l",
+    "total": 26.25,
+    "items": 1
+  },
+  {
+    "fund": "yabot",
+    "branch": "g",
+    "total": 37.5,
+    "items": 1
+  },
+  {
+    "fund": "yabot",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yabot",
+    "branch": "n",
+    "total": 66.74,
+    "items": 2
+  },
+  {
+    "fund": "yabot",
+    "branch": "s",
+    "total": 37.5,
+    "items": 1
+  },
+  {
+    "fund": "yabot",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "rbks",
+    "branch": "a",
+    "total": 84.38,
+    "items": 2
+  },
+  {
+    "fund": "rbks",
+    "branch": "r",
+    "total": 1015.6199999999999,
+    "items": 11
+  },
+  {
+    "fund": "rbks",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "rbks",
+    "branch": "m",
+    "total": 1071.52,
+    "items": 12
+  },
+  {
+    "fund": "rbks",
+    "branch": "l",
+    "total": 83.65,
+    "items": 2
+  },
+  {
+    "fund": "rbks",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "rbks",
+    "branch": "c",
+    "total": 495,
+    "items": 1
+  },
+  {
+    "fund": "rbks",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "rbks",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "rbks",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "gift",
+    "branch": "a",
+    "total": 341.5999999999999,
+    "items": 17
+  },
+  {
+    "fund": "gift",
+    "branch": "r",
+    "total": 280.67,
+    "items": 17
+  },
+  {
+    "fund": "gift",
+    "branch": "x",
+    "total": 590.2299999999999,
+    "items": 28
+  },
+  {
+    "fund": "gift",
+    "branch": "m",
+    "total": 174.32000000000002,
+    "items": 9
+  },
+  {
+    "fund": "gift",
+    "branch": "l",
+    "total": 1059.5466666666669,
+    "items": 65
+  },
+  {
+    "fund": "gift",
+    "branch": "g",
+    "total": 74.03999999999999,
+    "items": 4
+  },
+  {
+    "fund": "gift",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "gift",
+    "branch": "n",
+    "total": 68.66,
+    "items": 5
+  },
+  {
+    "fund": "gift",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "gift",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "r",
+    "total": 44.48,
+    "items": 2
+  },
+  {
+    "fund": "yadvd",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "m",
+    "total": 44.48,
+    "items": 2
+  },
+  {
+    "fund": "yadvd",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "n",
+    "total": 5.59,
+    "items": 1
+  },
+  {
+    "fund": "yadvd",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yadvd",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "r",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "m",
+    "total": 124.30000000000001,
+    "items": 2
+  },
+  {
+    "fund": "tsbks",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "tsbks",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "a",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "r",
+    "total": 205.90999999999997,
+    "items": 13
+  },
+  {
+    "fund": "engsl",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "m",
+    "total": 270.96000000000004,
+    "items": 15
+  },
+  {
+    "fund": "engsl",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "g",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "n",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "engsl",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacds",
+    "branch": "a",
+    "total": 62.519999999999996,
+    "items": 3
+  },
+  {
+    "fund": "yacds",
+    "branch": "r",
+    "total": 84.75999999999999,
+    "items": 4
+  },
+  {
+    "fund": "yacds",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacds",
+    "branch": "m",
+    "total": 84.75999999999999,
+    "items": 4
+  },
+  {
+    "fund": "yacds",
+    "branch": "l",
+    "total": 62.519999999999996,
+    "items": 3
+  },
+  {
+    "fund": "yacds",
+    "branch": "g",
+    "total": 84.75999999999999,
+    "items": 4
+  },
+  {
+    "fund": "yacds",
+    "branch": "c",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yacds",
+    "branch": "n",
+    "total": 62.519999999999996,
+    "items": 3
+  },
+  {
+    "fund": "yacds",
+    "branch": "s",
+    "total": 62.519999999999996,
+    "items": 3
+  },
+  {
+    "fund": "yacds",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yabest",
+    "branch": "a",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "r",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "x",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yabest",
+    "branch": "m",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "l",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yabest",
+    "branch": "g",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "c",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "n",
+    "total": 24.46,
+    "items": 2
+  },
+  {
+    "fund": "yabest",
+    "branch": "s",
+    "total": 0,
+    "items": 0
+  },
+  {
+    "fund": "yabest",
+    "branch": "none",
+    "total": 0,
+    "items": 0
+  }
+]
