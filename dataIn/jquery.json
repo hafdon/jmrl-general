@@ -1,0 +1,41 @@
+{
+  "queries": [
+    {
+      "target": {
+        "record": {
+          "type": "patron"
+        },
+        "field": {
+          "tag": "b"
+        }
+      },
+      "expr": [
+        {
+          "op": "in",
+          "operands": [
+            "21743005282116",
+            "21743005096458"
+          ]
+        }
+      ]
+    },
+    "or",
+    {
+      "target": {
+        "record": {
+          "type": "patron"
+        },
+        "id": 81
+      },
+      "expr": [
+        {
+          "op": "in",
+          "operands": [
+            "p1245013",
+            "p1217033"
+          ]
+        }
+      ]
+    }
+  ]
+}
