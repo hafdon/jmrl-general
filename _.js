@@ -1,5 +1,6 @@
 const fs = require('fs')
 const Json2csvParser = require('json2csv').Parser;
+const json2csv = require('json2csv').parse;
 
 const circDataPath = './dataIn/converted.json'
 const patronDataPath = './dataIn/patronInfo.json'
@@ -141,30 +142,19 @@ try {
         console.error(err);
     }
 
+    let uniquePtypes = new Array(23).fill({}).map((v, i) => ({
+        ptype: +i,
+        circulation: +0
+    }))
 
-    /**
-     * PIPE: CREATE OVERVIEW
-     */
-    let uniquePtypes = [ ...new Set(patronCircData.map( ({ptype}) => {
-        return ptype
-    }).filter( (el)=> {
-        return el !== undefined
-    }))]
 
-    uniquePtypes = uniquePtypes.map(el=> {
-        return {
-            ptype: el,
-            circulation : +0
-        }
-    })
-
-/*     
+   
     console.log('uniquePtypes')
-    console.log(uniquePtypes) */
+    console.log(uniquePtypes) 
 
     const totalCircByPtype = patronCircData.reduce( (accum, {ptype: patronPtype, circTotal}) => {
         accum.forEach( ({ptype: globalPtype}, index) => {
-            if (globalPtype === patronPtype) {
+            if (globalPtype === +patronPtype) {
                 accum[index].circulation += +circTotal
                 return accum
             }
@@ -174,6 +164,20 @@ try {
 
     console.log('totalCircByPtype')
     console.log(totalCircByPtype)
+
+    try {
+        const fields = ['ptype', 'circulation',];
+        const opts = { fields };
+        const csv = json2csv(totalCircByPtype, opts);
+    
+        fs.writeFile('./dataOut/totalCircByPtype.csv', csv, (err, data) => {
+            if (err) console.log(err)
+            console.log('wrote totalCircByPtype to file');
+        })
+        
+      } catch (err) {
+        console.error(err);
+      }
 
     const uniqueJurisdictions = [ {
         jurisdiction : 'Albemarle',
@@ -227,6 +231,20 @@ const stubCircByJurisdictions = circByJurisdictions.map (({jurisdiction, circula
 
 console.log('stubCircByJurisdictions')
 console.log(stubCircByJurisdictions)
+
+try {
+    const fields = ['jurisdiction', 'circulation',];
+    const opts = { fields };
+    const csv = json2csv(stubCircByJurisdictions, opts);
+
+    fs.writeFile('./dataOut/stubCircByJurisdictions.csv', csv, (err, data) => {
+        if (err) console.log(err)
+        console.log('wrote stubCircByJurisdictions to file');
+    })
+    
+  } catch (err) {
+    console.error(err);
+  }
     
 }
 main()
