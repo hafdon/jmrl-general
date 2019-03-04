@@ -1,6 +1,6 @@
 
 const fs = require('fs')
-const fyData = require('./fund_distro_fy2018_prod.json')
+const fyData = require('./fund_distro_fy2019_prod.json')
 
 console.log('starting')
 
@@ -11,6 +11,15 @@ function count(str, c) {
     for (i; i < str.length; i++)if (str[i] == c) result++;
     return result;
 };
+
+function writeToFile( { filename, data}) {
+    const datastring = JSON.stringify(data, null, 2)
+    
+    fs.writeFile(filename, datastring, function(err, datastring){
+        if (err) console.log(err);
+        console.log("Successfully Written to File.");
+    });
+}
 
 
 
@@ -82,6 +91,9 @@ fyData.forEach(
 
     })
 
+writeToFile({ filename: './fundDistOutput/locFundLines.txt', data: locFundLines})
+
+
 const uniqueLocs = [...new Set(locFundLines.map(item => item.loc))].map(val => ({
     branch: val,
     total: 0
@@ -149,7 +161,7 @@ let aggFunds = locFundLines.reduce((prev, { fund, pTotal, quantity, loc }) => {
 }, uniqueFunds)
 
 
-
+writeToFile({ filename: './fundDistOutput/aggFunds.txt', data: aggFunds})
 
 
 let formattedFunds = aggFunds.map(  ({fund, total, items, ...rest}) => {
@@ -161,13 +173,8 @@ let formattedFunds = aggFunds.map(  ({fund, total, items, ...rest}) => {
     }
  })
 
-/* console.log(`formattedFunds[0] **Remember this is just fund[0]`)
-console.log(formattedFunds[0])
-console.log()
+ writeToFile({ filename: './fundDistOutput/formattedFunds.txt', data: formattedFunds})
 
-console.log(`formattedFunds[1].byBranch **Remember this is just fund[1]`)
-console.log(formattedFunds[1])
-console.log() */
 
 
 
@@ -192,20 +199,13 @@ let agg = locFundLines
         ...rest
     }
  })
+ writeToFile({ filename: './fundDistOutput/formatted.txt', data: formatted})
 
-/*  console.log(`
- formatted === agg? ${formatted === agg}
- `) */
 
-/* console.log(`locFundLines`)
-console.log(locFundLines)
-console.log() */
+ writeToFile({ filename: './fundDistOutput/locFundLines_formatted.txt', data: locFundLines})
 
 
 let forSpreadsheet = formattedFunds.reduce((accum, curr, index, array) => {
-    console.log('curr')
-    console.log(curr)
-    console.log()
 
     return accum.concat(curr.byBranch.map(({ ...rest }) => ({
         fund: curr.fund,
@@ -222,10 +222,5 @@ console.log("unique locations")
 console.log(formatted)
 console.log("end unique locations") */
 
-const data = forSpreadsheet;
-const datastring = JSON.stringify(data, null, 2)
+writeToFile({ filename: './fundDistOutput/temp.txt', data: forSpreadsheet})
 
-fs.writeFile('temp.txt', datastring, function(err, datastring){
-    if (err) console.log(err);
-    console.log("Successfully Written to File.");
-});

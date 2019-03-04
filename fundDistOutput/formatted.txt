@@ -1,0 +1,42 @@
+[
+  {
+    "branch": "a",
+    "total": "30570.74"
+  },
+  {
+    "branch": "m",
+    "total": "79628.05"
+  },
+  {
+    "branch": "c",
+    "total": "49353.65"
+  },
+  {
+    "branch": "r",
+    "total": "71257.03"
+  },
+  {
+    "branch": "s",
+    "total": "13167.40"
+  },
+  {
+    "branch": "l",
+    "total": "23305.16"
+  },
+  {
+    "branch": "n",
+    "total": "16106.58"
+  },
+  {
+    "branch": "g",
+    "total": "20933.39"
+  },
+  {
+    "branch": "none",
+    "total": "6193.72"
+  },
+  {
+    "branch": "x",
+    "total": "4911.93"
+  }
+]
